@@ -1,0 +1,39 @@
+_repo: Poor-Folk-in-Spain_40776
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40776-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Gordon, Jan
+    alias: Gordon, Godfrey Jervis
+    birthdate: 1882
+    deathdate: 1944
+    gutenberg_agent_id: '7280'
+    url: http://www.gutenberg.org/2009/agents/7280
+  - agent_name: Gordon, Cora
+    aliases:
+    - Gordon, Cora Josephine Turner
+    - Jordon, Jo (Josephine)
+    birthdate: 1879
+    deathdate: 1950
+    gutenberg_agent_id: '7281'
+    url: http://www.gutenberg.org/2009/agents/7281
+description:
+- Illustrated by the authors.
+- 'American edition has title: Two vagabonds in Spain.'
+gutenberg_issued: '2012-09-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40776'
+  lccn: '23005150'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spain -- Description and travel'
+- !lcc 'DP'
+- !lcsh 'Spain -- Social life and customs'
+title: Poor Folk in Spain
+url: http://www.gutenberg.org/ebooks/40776
