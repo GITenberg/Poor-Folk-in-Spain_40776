@@ -22,6 +22,8 @@ creator:
 description:
 - Illustrated by the authors.
 - 'American edition has title: Two vagabonds in Spain.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40776#Poor-Folk-in-Spain
 gutenberg_issued: '2012-09-16'
 gutenberg_type: Text
 identifiers:
